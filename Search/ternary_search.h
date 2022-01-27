@@ -1,8 +1,8 @@
 //
 //  ternary_search.h
-//  Sorting Algorithms
+//  Search Algorithms
 //
-//  Created by hacker on 1/26/22.
+//  Created by Lennart Buhl on 1/26/22.
 //
 
 #ifndef ternary_search_h

@@ -2,7 +2,7 @@
 //  insertion_sort.h
 //  Sorting Algorithms
 //
-//  Created by hacker on 1/26/22.
+//  Created by Lennart Buhl on 1/26/22.
 //
 
 #ifndef insertion_sort_h

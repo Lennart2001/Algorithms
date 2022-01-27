@@ -2,7 +2,7 @@
 //  bubble_sort.h
 //  Sorting Algorithms
 //
-//  Created by hacker on 1/23/22.
+//  Created by Lennart Buhl on 1/23/22.
 //
 
 #ifndef bubble_sort_h
